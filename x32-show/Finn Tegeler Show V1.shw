@@ -1,0 +1,38 @@
+#4.0#
+show "Finn Tegeler Show V1" 3 0 0 127 0 0 0 0 0 0 "X32-Edit 4.00"
+cue/000 100 "Einlass" 0 -1 0 0 1 0 0
+cue/001 200 "Moderation" 0 -1 1 0 1 0 0
+cue/002 300 "Umbau" 1 -1 2 0 1 0 0
+cue/003 400 "Auftritt Nr. 1" 0 -1 10 0 1 0 0
+cue/004 500 "Umbau" 0 -1 2 0 1 0 0
+cue/005 600 "Auftritt Nr. 2" 0 -1 11 0 1 0 0
+cue/006 700 "Umbau" 0 -1 2 0 1 0 0
+cue/007 800 "Auftritt Nr. 3" 0 -1 12 0 1 0 0
+cue/008 900 "Umbau" 0 -1 2 0 1 0 0
+cue/009 1000 "Auftritt Nr. 4" 0 -1 13 0 1 0 0
+cue/010 1100 "Umbau" 0 -1 2 0 1 0 0
+cue/011 1200 "Auftritt Nr. 5" 0 -1 14 0 1 0 0
+cue/012 1300 "Moderation (Paus" 0 -1 1 0 1 0 0
+cue/013 1400 "PAUSE" 0 -1 0 0 1 0 0
+cue/014 1500 "Auftritt Nr. 6" 0 -1 15 0 1 0 0
+cue/015 1600 "Umbau" 1 -1 2 0 1 0 0
+cue/016 1700 "Auftritt Nr. 7" 0 -1 16 0 1 0 0
+cue/017 1800 "Umbau" 0 -1 2 0 1 0 0
+cue/018 1900 "Auftritt Nr. 8" 0 -1 17 0 1 0 0
+cue/019 2000 "Umbau" 0 -1 2 0 1 0 0
+cue/020 2100 "Auftritt Nr. 9" 0 -1 18 0 1 0 0
+cue/021 2200 "Moderation" 0 -1 1 0 1 0 0
+cue/022 2300 "ENDE" 0 -1 2 0 1 0 0
+scene/000 "BASE" "" %110000010 1
+snippet/000 "MUTE: Only AUX" 128 0 0 65280 1
+snippet/001 "MUTE: Only Funk" 128 0 0 65280 1
+snippet/002 "MUTE: ALL MUTED" 128 0 0 65280 1
+snippet/010 "ACT: 1" 125 -1 0 0 1
+snippet/011 "ACT: 2" 125 -1 0 0 1
+snippet/012 "ACT: 3" 125 -1 0 0 1
+snippet/013 "ACT: 4" 125 -1 0 0 1
+snippet/014 "ACT: 5" 125 -1 0 0 1
+snippet/015 "ACT: 6" 125 -1 0 0 1
+snippet/016 "ACT: 7" 125 -1 0 0 1
+snippet/017 "ACT: 8" 125 -1 0 0 1
+snippet/018 "ACT: 9" 125 -1 0 0 1
